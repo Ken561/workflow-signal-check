@@ -2,8 +2,6 @@
 
 Five questions. An honest read on whether an AI-assisted workflow idea is actually worth building, or whether it's smaller than it sounds.
 
-**Live:** deploy this to Vercel or Netlify and drop the URL here.
-
 ## Why I built this
 
 I've got a three-layer way of thinking about AI impact, individual velocity, workflow redesign, organizational compounding, and I noticed I was running the same mental exercise informally every time someone pitched me a workflow idea. So I built the actual instrument instead of just carrying it around in my head.
@@ -27,7 +25,7 @@ Single React component, no backend, nothing stored anywhere, every answer lives 
 
 ## Where the actual model comes from
 
-The three-layer framing and the full written-out worksheet version of this live in [ai-workflow-audit-toolkit](https://github.com/YOURUSERNAME/ai-workflow-audit-toolkit). This repo is the interactive version of that same thinking, built so you can actually run it instead of filling out markdown by hand.
+The three-layer framing and the full written-out worksheet version of this live in [ai-workflow-audit-toolkit](https://github.com/Ken561/ai-workflow-audit-toolkit). This repo is the interactive version of that same thinking, built so you can actually run it instead of filling out markdown by hand.
 
 ## License
 
